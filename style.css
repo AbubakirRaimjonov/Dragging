@@ -1,0 +1,49 @@
+.container{
+    display: flex;
+    align-items: start;
+    gap: 20px;
+}
+.items-menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 50px 50px;
+    border: 1px solid black;
+    border-radius: 16px;
+}
+.items-drag-area{
+    width: 80%;
+    border: 1px solid black;
+    border-radius: 16px;
+    height: 730px;
+}
+.tirsak{
+    width: 150px;
+    height: 100px;
+}
+.ustun{
+    height: 48px;
+    width: 30px;
+}
+.long-ustun{
+    height: 96px;
+    width: 20px;
+}
+.longer{
+    width: 180px;
+    height: 20px;
+}
+.long{
+    width: 150px;
+    height: 20px;
+}
+.square{
+    width: 150px;
+    height: 48px;
+}
+.longer-square{
+    width: 180px;
+    height: 48px;
+}
